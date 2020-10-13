@@ -1,0 +1,123 @@
+[05-Nov-2013 20:33:00] There exists a cookie that we wanted to clear that we couldn't clear because headers was already sent. Make sure to do the first API call before outputing anything.
+[05-Nov-2013 20:33:00] OAuthException: An active access token must be used to query information about the current user.
+[05-Nov-2013 20:39:12] There exists a cookie that we wanted to clear that we couldn't clear because headers was already sent. Make sure to do the first API call before outputing anything.
+[05-Nov-2013 20:39:12] OAuthException: An active access token must be used to query information about the current user.
+[06-Nov-2013 00:20:28] There exists a cookie that we wanted to clear that we couldn't clear because headers was already sent. Make sure to do the first API call before outputing anything.
+[06-Nov-2013 00:20:28] OAuthException: An active access token must be used to query information about the current user.
+[29-Jan-2016 06:46:46 America/Denver] PHP Notice:  Undefined index: fb_app_id in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 68
+[29-Jan-2016 06:46:46 America/Denver] PHP Notice:  Undefined index: fb_app_secret in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 69
+[29-Jan-2016 06:46:46 America/Denver] PHP Notice:  Undefined index: fb_box_cookie in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 338
+[29-Jan-2016 06:46:46 America/Denver] PHP Notice:  Undefined index: fbsr_175875732616024 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 386
+[29-Jan-2016 06:46:46 America/Denver] PHP Notice:  Undefined offset: 1 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 353
+[29-Jan-2016 06:46:46 America/Denver] PHP Notice:  Undefined index: timeline_js in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 95
+[29-Jan-2016 06:46:46 America/Denver] PHP Notice:  Undefined index: prettydate_js in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 96
+[29-Jan-2016 06:46:46 America/Denver] PHP Warning:  Illegal string offset 'access_token' in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 170
+[29-Jan-2016 06:46:46 America/Denver] PHP Notice:  Uninitialized string offset: 0 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 170
+[03-Jul-2016 06:44:17 America/Denver] PHP Notice:  Undefined index: fb_app_id in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 68
+[03-Jul-2016 06:44:17 America/Denver] PHP Notice:  Undefined index: fb_app_secret in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 69
+[03-Jul-2016 06:44:17 America/Denver] PHP Notice:  Undefined index: fb_box_cookie in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 338
+[03-Jul-2016 06:44:17 America/Denver] PHP Notice:  Undefined index: fbsr_175875732616024 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 386
+[03-Jul-2016 06:44:17 America/Denver] PHP Notice:  Undefined offset: 1 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 353
+[03-Jul-2016 06:44:17 America/Denver] PHP Notice:  Undefined index: timeline_js in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 95
+[03-Jul-2016 06:44:17 America/Denver] PHP Notice:  Undefined index: prettydate_js in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 96
+[03-Jul-2016 06:44:17 America/Denver] PHP Warning:  Illegal string offset 'access_token' in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 170
+[03-Jul-2016 06:44:17 America/Denver] PHP Notice:  Uninitialized string offset: 0 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 170
+[06-Jul-2016 06:20:56 America/Denver] PHP Notice:  Undefined index: fb_app_id in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 68
+[06-Jul-2016 06:20:56 America/Denver] PHP Notice:  Undefined index: fb_app_secret in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 69
+[06-Jul-2016 06:20:56 America/Denver] PHP Notice:  Undefined index: fb_box_cookie in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 338
+[06-Jul-2016 06:20:56 America/Denver] PHP Notice:  Undefined index: fbsr_175875732616024 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 386
+[06-Jul-2016 06:20:56 America/Denver] PHP Notice:  Undefined offset: 1 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 353
+[06-Jul-2016 06:20:56 America/Denver] PHP Notice:  Undefined index: timeline_js in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 95
+[06-Jul-2016 06:20:56 America/Denver] PHP Notice:  Undefined index: prettydate_js in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 96
+[06-Jul-2016 06:20:56 America/Denver] PHP Warning:  Illegal string offset 'access_token' in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 170
+[06-Jul-2016 06:20:56 America/Denver] PHP Notice:  Uninitialized string offset: 0 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 170
+[31-Oct-2016 06:26:18 America/Denver] PHP Notice:  Undefined index: fb_app_id in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 68
+[31-Oct-2016 06:26:18 America/Denver] PHP Notice:  Undefined index: fb_app_secret in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 69
+[31-Oct-2016 06:26:18 America/Denver] PHP Notice:  Undefined index: fb_box_cookie in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 338
+[31-Oct-2016 06:26:18 America/Denver] PHP Notice:  Undefined index: fbsr_175875732616024 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 386
+[31-Oct-2016 06:26:18 America/Denver] PHP Notice:  Undefined offset: 1 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 353
+[31-Oct-2016 06:26:18 America/Denver] PHP Notice:  Undefined index: timeline_js in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 95
+[31-Oct-2016 06:26:18 America/Denver] PHP Notice:  Undefined index: prettydate_js in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 96
+[31-Oct-2016 06:26:18 America/Denver] PHP Warning:  Illegal string offset 'access_token' in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 170
+[31-Oct-2016 06:26:18 America/Denver] PHP Notice:  Uninitialized string offset: 0 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 170
+[03-Nov-2016 04:43:05 America/Denver] PHP Notice:  Undefined index: fb_app_id in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 68
+[03-Nov-2016 04:43:05 America/Denver] PHP Notice:  Undefined index: fb_app_secret in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 69
+[03-Nov-2016 04:43:05 America/Denver] PHP Notice:  Undefined index: fb_box_cookie in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 338
+[03-Nov-2016 04:43:05 America/Denver] PHP Notice:  Undefined index: fbsr_175875732616024 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 386
+[03-Nov-2016 04:43:05 America/Denver] PHP Notice:  Undefined offset: 1 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 353
+[03-Nov-2016 04:43:05 America/Denver] PHP Notice:  Undefined index: timeline_js in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 95
+[03-Nov-2016 04:43:05 America/Denver] PHP Notice:  Undefined index: prettydate_js in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 96
+[03-Nov-2016 04:43:05 America/Denver] PHP Warning:  Illegal string offset 'access_token' in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 170
+[03-Nov-2016 04:43:05 America/Denver] PHP Notice:  Uninitialized string offset: 0 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 170
+[22-Nov-2016 21:03:07 America/Denver] PHP Notice:  Undefined index: fb_app_id in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 68
+[22-Nov-2016 21:03:07 America/Denver] PHP Notice:  Undefined index: fb_app_secret in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 69
+[22-Nov-2016 21:03:07 America/Denver] PHP Notice:  Undefined index: fb_box_cookie in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 338
+[22-Nov-2016 21:03:07 America/Denver] PHP Notice:  Undefined index: fbsr_175875732616024 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 386
+[22-Nov-2016 21:03:07 America/Denver] PHP Notice:  Undefined offset: 1 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 353
+[22-Nov-2016 21:03:07 America/Denver] PHP Notice:  Undefined index: timeline_js in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 95
+[22-Nov-2016 21:03:07 America/Denver] PHP Notice:  Undefined index: prettydate_js in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 96
+[22-Nov-2016 21:03:07 America/Denver] PHP Warning:  Illegal string offset 'access_token' in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 170
+[22-Nov-2016 21:03:07 America/Denver] PHP Notice:  Uninitialized string offset: 0 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 170
+[22-Dec-2016 06:20:44 America/Denver] PHP Notice:  Undefined index: fb_app_id in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 68
+[22-Dec-2016 06:20:44 America/Denver] PHP Notice:  Undefined index: fb_app_secret in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 69
+[22-Dec-2016 06:20:44 America/Denver] PHP Notice:  Undefined index: fb_box_cookie in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 338
+[22-Dec-2016 06:20:44 America/Denver] PHP Notice:  Undefined index: fbsr_175875732616024 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 386
+[22-Dec-2016 06:20:44 America/Denver] PHP Notice:  Undefined offset: 1 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 353
+[22-Dec-2016 06:20:44 America/Denver] PHP Notice:  Undefined index: timeline_js in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 95
+[22-Dec-2016 06:20:44 America/Denver] PHP Notice:  Undefined index: prettydate_js in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 96
+[22-Dec-2016 06:20:44 America/Denver] PHP Warning:  Illegal string offset 'access_token' in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 170
+[22-Dec-2016 06:20:44 America/Denver] PHP Notice:  Uninitialized string offset: 0 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 170
+[23-Dec-2016 12:57:00 America/Denver] PHP Notice:  Undefined index: fb_app_id in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 68
+[23-Dec-2016 12:57:00 America/Denver] PHP Notice:  Undefined index: fb_app_secret in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 69
+[23-Dec-2016 12:57:00 America/Denver] PHP Notice:  Undefined index: fb_box_cookie in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 338
+[23-Dec-2016 12:57:00 America/Denver] PHP Notice:  Undefined index: fbsr_175875732616024 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 386
+[23-Dec-2016 12:57:00 America/Denver] PHP Notice:  Undefined offset: 1 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 353
+[23-Dec-2016 12:57:00 America/Denver] PHP Notice:  Undefined index: timeline_js in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 95
+[23-Dec-2016 12:57:00 America/Denver] PHP Notice:  Undefined index: prettydate_js in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 96
+[23-Dec-2016 12:57:00 America/Denver] PHP Warning:  Illegal string offset 'access_token' in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 170
+[23-Dec-2016 12:57:00 America/Denver] PHP Notice:  Uninitialized string offset: 0 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 170
+[27-Dec-2016 23:22:32 America/Denver] PHP Notice:  Undefined index: fb_app_id in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 68
+[27-Dec-2016 23:22:32 America/Denver] PHP Notice:  Undefined index: fb_app_secret in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 69
+[27-Dec-2016 23:22:32 America/Denver] PHP Notice:  Undefined index: fb_box_cookie in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 338
+[27-Dec-2016 23:22:32 America/Denver] PHP Notice:  Undefined index: fbsr_175875732616024 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 386
+[27-Dec-2016 23:22:32 America/Denver] PHP Notice:  Undefined offset: 1 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 353
+[27-Dec-2016 23:22:32 America/Denver] PHP Notice:  Undefined index: timeline_js in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 95
+[27-Dec-2016 23:22:32 America/Denver] PHP Notice:  Undefined index: prettydate_js in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 96
+[27-Dec-2016 23:22:32 America/Denver] PHP Warning:  Illegal string offset 'access_token' in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 170
+[27-Dec-2016 23:22:32 America/Denver] PHP Notice:  Uninitialized string offset: 0 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 170
+[07-Jan-2017 19:32:14 America/Denver] PHP Notice:  Undefined index: fb_app_id in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 68
+[07-Jan-2017 19:32:14 America/Denver] PHP Notice:  Undefined index: fb_app_secret in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 69
+[07-Jan-2017 19:32:14 America/Denver] PHP Notice:  Undefined index: fb_box_cookie in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 338
+[07-Jan-2017 19:32:14 America/Denver] PHP Notice:  Undefined index: fbsr_175875732616024 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 386
+[07-Jan-2017 19:32:14 America/Denver] PHP Notice:  Undefined offset: 1 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 353
+[07-Jan-2017 19:32:14 America/Denver] PHP Notice:  Undefined index: timeline_js in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 95
+[07-Jan-2017 19:32:14 America/Denver] PHP Notice:  Undefined index: prettydate_js in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 96
+[07-Jan-2017 19:32:14 America/Denver] PHP Warning:  Illegal string offset 'access_token' in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 170
+[07-Jan-2017 19:32:14 America/Denver] PHP Notice:  Uninitialized string offset: 0 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 170
+[23-Feb-2017 15:15:52 America/Denver] PHP Notice:  Undefined index: fb_app_id in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 68
+[23-Feb-2017 15:15:52 America/Denver] PHP Notice:  Undefined index: fb_app_secret in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 69
+[23-Feb-2017 15:15:52 America/Denver] PHP Notice:  Undefined index: fb_box_cookie in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 338
+[23-Feb-2017 15:15:52 America/Denver] PHP Notice:  Undefined index: fbsr_175875732616024 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 386
+[23-Feb-2017 15:15:52 America/Denver] PHP Notice:  Undefined offset: 1 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 353
+[23-Feb-2017 15:15:52 America/Denver] PHP Notice:  Undefined index: timeline_js in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 95
+[23-Feb-2017 15:15:52 America/Denver] PHP Notice:  Undefined index: prettydate_js in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 96
+[23-Feb-2017 15:15:52 America/Denver] PHP Warning:  Illegal string offset 'access_token' in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 170
+[23-Feb-2017 15:15:52 America/Denver] PHP Notice:  Uninitialized string offset: 0 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 170
+[06-Jul-2017 16:58:02 America/Denver] PHP Notice:  Undefined index: fb_app_id in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 68
+[06-Jul-2017 16:58:02 America/Denver] PHP Notice:  Undefined index: fb_app_secret in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 69
+[06-Jul-2017 16:58:02 America/Denver] PHP Notice:  Undefined index: fb_box_cookie in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 338
+[06-Jul-2017 16:58:02 America/Denver] PHP Notice:  Undefined index: fbsr_175875732616024 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 386
+[06-Jul-2017 16:58:02 America/Denver] PHP Notice:  Undefined offset: 1 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 353
+[06-Jul-2017 16:58:02 America/Denver] PHP Notice:  Undefined index: timeline_js in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 95
+[06-Jul-2017 16:58:02 America/Denver] PHP Notice:  Undefined index: prettydate_js in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 96
+[06-Jul-2017 16:58:02 America/Denver] PHP Warning:  Illegal string offset 'access_token' in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 170
+[06-Jul-2017 16:58:02 America/Denver] PHP Notice:  Uninitialized string offset: 0 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 170
+[26-Jul-2017 17:25:21 America/Denver] PHP Notice:  Undefined index: fb_app_id in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 68
+[26-Jul-2017 17:25:21 America/Denver] PHP Notice:  Undefined index: fb_app_secret in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 69
+[26-Jul-2017 17:25:21 America/Denver] PHP Notice:  Undefined index: fb_box_cookie in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 338
+[26-Jul-2017 17:25:21 America/Denver] PHP Notice:  Undefined index: fbsr_175875732616024 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 386
+[26-Jul-2017 17:25:21 America/Denver] PHP Notice:  Undefined offset: 1 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 353
+[26-Jul-2017 17:25:21 America/Denver] PHP Notice:  Undefined index: timeline_js in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 95
+[26-Jul-2017 17:25:21 America/Denver] PHP Notice:  Undefined index: prettydate_js in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 96
+[26-Jul-2017 17:25:21 America/Denver] PHP Warning:  Illegal string offset 'access_token' in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 170
+[26-Jul-2017 17:25:21 America/Denver] PHP Notice:  Uninitialized string offset: 0 in /home1/learnonc/public_html/ehomework/facebookscript/src/Fb_ypbox.php on line 170

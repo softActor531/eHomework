@@ -1,0 +1,3 @@
+[11-Oct-2016 13:10:04 America/Denver] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home1/learnonc/public_html/ehomework/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[11-Oct-2016 13:13:07 America/Denver] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home1/learnonc/public_html/ehomework/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[11-Oct-2016 13:13:08 America/Denver] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home1/learnonc/public_html/ehomework/wp-includes/rest-api/class-wp-rest-response.php on line 17
